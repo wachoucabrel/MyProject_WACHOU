@@ -17,3 +17,5 @@ nel range. OK
 9. Lista dello storico delle mosse eseguite. OK
 10. AI che utilizza algoritmi euristici ottimizzati di movimento (diverso
 da A*). OK
+ Quando avvio il gioco , dopo aver messo le miei unità , posso spostare    ogni unita alla volta   al primo torno  dopo aver finito clicco su termina torni che significa che ho fatto il primo torno e do la possibilita a i miei nemici ai di procedere a loro torno e cosi  via 
+ per quanto riguarda la mia mappa Lei deve referirsi alla mappawachou , non ho usato la mappa base pero quella empty perche la capacita del mio computer non mi permetteva di proseguire con il gioco 
